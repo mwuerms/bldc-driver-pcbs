@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "bldc-driver-lib")(type "KiCad")(uri "/home/martin/projects/bldc-driver-pcbs/kicad/bldc-driver-lib.kicad_sym")(options "")(descr ""))
+)
