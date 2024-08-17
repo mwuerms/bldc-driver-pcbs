@@ -3414,6 +3414,16 @@
 		)
 		(uuid "f9910ae4-1f52-45f1-83b1-c19ec7727481")
 	)
+	(text "MKDSN 1,5 5.08 3 pol: 1548129"
+		(exclude_from_sim no)
+		(at 245.872 94.234 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "26c41da8-922d-4aa3-a44e-b97c5f4e999c")
+	)
 	(text "VM: 14 V (min)\ncap v rating: 2xVM = 28 V -> use 35VDC "
 		(exclude_from_sim no)
 		(at 86.36 34.036 0)
@@ -3444,6 +3454,16 @@
 			)
 		)
 		(uuid "f3a922b6-7278-48c6-a021-426292529177")
+	)
+	(text "100nF: 80-C0603C104K5R\n1uF: 187-CL21B105KBFNNNG\n"
+		(exclude_from_sim no)
+		(at 49.784 38.608 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f712a1d7-0de3-46ca-bc25-c911664273d5")
 	)
 	(text "connect GND planes at 1 point"
 		(exclude_from_sim no)
@@ -3648,7 +3668,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x7.7"
 			(at 65.7352 55.88 0)
 			(effects
 				(font
@@ -3718,7 +3738,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 194.0052 63.5 0)
 			(effects
 				(font
@@ -3788,7 +3808,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 117.8052 55.88 0)
 			(effects
 				(font
@@ -3857,7 +3877,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
 			(at 248.92 86.36 0)
 			(effects
 				(font
@@ -3930,7 +3950,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 135.5852 55.88 0)
 			(effects
 				(font
@@ -4212,7 +4232,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 209.2452 63.5 0)
 			(effects
 				(font
@@ -4478,7 +4498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical"
 			(at 78.74 96.52 0)
 			(effects
 				(font
@@ -4587,7 +4607,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 133.0452 124.46 0)
 			(effects
 				(font
@@ -4789,7 +4809,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x7.7"
 			(at 82.2452 55.88 0)
 			(effects
 				(font
@@ -4925,7 +4945,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 100.0252 55.88 0)
 			(effects
 				(font
@@ -5127,7 +5147,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 113.792 71.12 90)
 			(effects
 				(font
@@ -5195,7 +5215,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 26.67 49.53 0)
 			(effects
 				(font
@@ -5265,7 +5285,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 194.0052 76.2 0)
 			(effects
 				(font
