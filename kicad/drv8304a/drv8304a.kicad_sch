@@ -1,0 +1,847 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "7a8d9ff2-bf56-479a-9d9b-fa1afc884de5")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Transistor_FET:CSD18534Q5A"
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "CSD18534Q5A"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+				(at 5.08 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/gpn/csd18534q5a"
+				(at 5.08 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "50A Id, 60V Vds, NexFET N-Channel Power MOSFET, 9.8mOhm Ron, 17nC Qg(typ), SON8 5x6mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "NexFET Power MOSFET N-MOS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TDSON*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CSD18534Q5A_0_1"
+				(polyline
+					(pts
+						(xy 0.254 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 1.905) (xy 0.254 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.27) (xy 0.762 -2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0.508) (xy 0.762 -0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 2.286) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 2.54 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.794 0.508) (xy 2.921 0.381) (xy 3.683 0.381) (xy 3.81 0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.651 0)
+					(radius 2.794)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 -1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 2.54 1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "CSD18534Q5A_1_1"
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54) hide
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54) hide
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(text "use N-MOSFETS\nCSD18514Q5A \n(pin compatible to \nCSD18534)"
+		(exclude_from_sim no)
+		(at 262.382 76.454 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "df356d24-b0aa-4d8e-b157-861654b45849")
+	)
+	(symbol
+		(lib_id "Transistor_FET:CSD18534Q5A")
+		(at 226.06 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "38007de8-aa17-4d28-94b2-f3d1aee9fa9f")
+		(property "Reference" "Q4"
+			(at 232.41 80.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CSD18534Q5A"
+			(at 232.41 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+			(at 231.14 83.185 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/csd18534q5a"
+			(at 231.14 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "50A Id, 60V Vds, NexFET N-Channel Power MOSFET, 9.8mOhm Ron, 17nC Qg(typ), SON8 5x6mm"
+			(at 226.06 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "34b4a47d-135e-42bc-b2c7-95127f77f6a6")
+		)
+		(pin "2"
+			(uuid "f7e6ecdf-906a-4703-9000-127cd23c9ea4")
+		)
+		(pin "3"
+			(uuid "978edccf-ab5a-4f4f-9756-7efe9464ed7e")
+		)
+		(pin "1"
+			(uuid "c21181a7-d099-45be-8700-a2540d9ab76f")
+		)
+		(pin "5"
+			(uuid "5c108ca7-3ced-4b7f-ab08-07128f2f9f5d")
+		)
+		(instances
+			(project "drv8304a"
+				(path "/7a8d9ff2-bf56-479a-9d9b-fa1afc884de5"
+					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:CSD18534Q5A")
+		(at 226.06 55.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "543e8348-c72b-4b85-910e-0ef8aaf8e9a7")
+		(property "Reference" "Q2"
+			(at 232.41 54.6099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CSD18534Q5A"
+			(at 232.41 57.1499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+			(at 231.14 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/csd18534q5a"
+			(at 231.14 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "50A Id, 60V Vds, NexFET N-Channel Power MOSFET, 9.8mOhm Ron, 17nC Qg(typ), SON8 5x6mm"
+			(at 226.06 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "00e6e2e3-4259-4fc0-a684-b1c9bf98c561")
+		)
+		(pin "2"
+			(uuid "af73959f-65ce-4078-a9b7-6b6bcab4e7f4")
+		)
+		(pin "3"
+			(uuid "3f20a015-c738-4acf-b516-0a5680a3b7e1")
+		)
+		(pin "1"
+			(uuid "51980dcd-3f10-4dee-ac0c-1ea0312c00fa")
+		)
+		(pin "5"
+			(uuid "2e5b9186-4ddf-4ac3-84d4-c6f00368267b")
+		)
+		(instances
+			(project "drv8304a"
+				(path "/7a8d9ff2-bf56-479a-9d9b-fa1afc884de5"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:CSD18534Q5A")
+		(at 226.06 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "afa6b4c5-7b15-455b-8ab2-e8a17663086d")
+		(property "Reference" "Q1"
+			(at 232.41 44.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CSD18534Q5A"
+			(at 232.41 46.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+			(at 231.14 47.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/csd18534q5a"
+			(at 231.14 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "50A Id, 60V Vds, NexFET N-Channel Power MOSFET, 9.8mOhm Ron, 17nC Qg(typ), SON8 5x6mm"
+			(at 226.06 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "4983b65c-101e-4a49-a650-83335e4d23e1")
+		)
+		(pin "2"
+			(uuid "c5a9aeb9-ca65-459b-aa51-d1bdf9eeea3f")
+		)
+		(pin "3"
+			(uuid "2f2ca948-955a-4c44-99b8-4b4a6adaf0cc")
+		)
+		(pin "1"
+			(uuid "05090b2f-cbeb-4511-989c-78f0a2ef3ee1")
+		)
+		(pin "5"
+			(uuid "fcd9ddcd-4638-451e-8931-dfb25dff7395")
+		)
+		(instances
+			(project ""
+				(path "/7a8d9ff2-bf56-479a-9d9b-fa1afc884de5"
+					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:CSD18534Q5A")
+		(at 226.06 71.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b6386d7f-ddc6-48f5-b525-52f4620e4745")
+		(property "Reference" "Q3"
+			(at 232.41 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CSD18534Q5A"
+			(at 232.41 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+			(at 231.14 73.025 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/csd18534q5a"
+			(at 231.14 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "50A Id, 60V Vds, NexFET N-Channel Power MOSFET, 9.8mOhm Ron, 17nC Qg(typ), SON8 5x6mm"
+			(at 226.06 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "cf16c15a-4bdc-48e5-b3aa-85f4a3a9376b")
+		)
+		(pin "2"
+			(uuid "a0dc8e17-5799-4980-8440-ca444a5debf1")
+		)
+		(pin "3"
+			(uuid "b4f051ae-8e92-438f-9a56-9d52159045d0")
+		)
+		(pin "1"
+			(uuid "a0899680-0548-4e39-9f93-4a6d983390f7")
+		)
+		(pin "5"
+			(uuid "7710b2a3-c881-4e23-bf3e-8ce0846582f2")
+		)
+		(instances
+			(project "drv8304a"
+				(path "/7a8d9ff2-bf56-479a-9d9b-fa1afc884de5"
+					(reference "Q3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:CSD18534Q5A")
+		(at 226.06 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ee09aaf2-71a6-4392-9619-2fd64447f6d4")
+		(property "Reference" "Q5"
+			(at 232.41 95.2499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CSD18534Q5A"
+			(at 232.41 97.7899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+			(at 231.14 98.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/csd18534q5a"
+			(at 231.14 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "50A Id, 60V Vds, NexFET N-Channel Power MOSFET, 9.8mOhm Ron, 17nC Qg(typ), SON8 5x6mm"
+			(at 226.06 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "660c4c7b-8975-4e2a-8d1e-e8edcdc1d6ba")
+		)
+		(pin "2"
+			(uuid "16dc54e0-1902-4f65-89e7-f9871335a58f")
+		)
+		(pin "3"
+			(uuid "245a6269-7ee4-484a-9a0c-32adb60c8ba7")
+		)
+		(pin "1"
+			(uuid "5c4ad26a-5091-40ce-a733-0b186e68292c")
+		)
+		(pin "5"
+			(uuid "cf30b326-d65f-4a74-982b-3c88d7a9af8b")
+		)
+		(instances
+			(project "drv8304a"
+				(path "/7a8d9ff2-bf56-479a-9d9b-fa1afc884de5"
+					(reference "Q5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:CSD18534Q5A")
+		(at 226.06 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fa75b2f4-9ab2-477b-a3ad-a213e3e4abeb")
+		(property "Reference" "Q6"
+			(at 232.41 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CSD18534Q5A"
+			(at 232.41 107.9499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+			(at 231.14 108.585 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/csd18534q5a"
+			(at 231.14 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "50A Id, 60V Vds, NexFET N-Channel Power MOSFET, 9.8mOhm Ron, 17nC Qg(typ), SON8 5x6mm"
+			(at 226.06 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "175d7368-6bac-4143-924b-4f1f2549b608")
+		)
+		(pin "2"
+			(uuid "883719b0-6fb2-4940-80bc-84d21d43b296")
+		)
+		(pin "3"
+			(uuid "4c642953-f053-461b-b0fd-a0467532c8ea")
+		)
+		(pin "1"
+			(uuid "9bd174b9-b08f-476c-8de0-30ecddfc0f05")
+		)
+		(pin "5"
+			(uuid "ef655f62-2da5-426e-8b97-435c2119c114")
+		)
+		(instances
+			(project "drv8304a"
+				(path "/7a8d9ff2-bf56-479a-9d9b-fa1afc884de5"
+					(reference "Q6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
