@@ -177,7 +177,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/b8498bc7-eb6b-4685-9acb-9ed3518856a8")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -390,7 +390,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c3621ff6-ecd8-4e48-8140-d5d3c730632d")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -690,7 +690,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/fc4c619e-c7b5-41ea-abdb-9d09b498c76c")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -903,7 +903,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ff99bafb-a59d-46dc-84af-ffa69ec3fc26")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1116,7 +1116,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/a28d00e0-f38c-48e4-99a2-4e81bbc06588")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1329,7 +1329,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/18c7d5b5-8fad-443a-b296-9b7556d8c253")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1542,7 +1542,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/323bcde9-d8c8-4d1d-a29e-9cc584814d7b")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1755,7 +1755,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/a7324d47-db7e-487d-9612-ab69050505ea")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2055,7 +2055,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/04ff3549-fdec-41c1-920b-7dc12c1b5600")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2268,7 +2268,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fed12d20-f251-4e4e-a94b-52f03e4116f0")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2481,7 +2481,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/631f49b2-6157-4676-b44e-0da765a71354")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2694,7 +2694,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/4e241d5f-9e7c-4b8e-b12f-3d6b38d1d664")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2907,7 +2907,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/09e3890e-d873-42b2-b202-024f26c847fe")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3120,7 +3120,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/40e58d5d-1a3c-4f99-98e1-f31d63a709bb")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3333,7 +3333,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/0781abde-9165-49c4-b98a-e7c5c89fa5b0")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3546,7 +3546,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8151720b-1631-459e-8cb7-43bcbe8681b2")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3759,7 +3759,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/ab9f446d-debe-4f71-a28e-608b335efaeb")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3972,7 +3972,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/eb599403-56f9-4ec6-be07-f387bd06b044")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4179,7 +4179,7 @@
 			)
 		)
 		(path "/3671f90a-8f08-4a7f-a249-9ff5d589ead2")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4865,7 +4865,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/41d55421-20e5-4fdf-88ec-12b146e17093")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5078,7 +5078,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/e7d5fb60-86fe-4d58-92c9-535e2c100799")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -5345,7 +5345,7 @@
 		)
 		(property ki_fp_filters "CP_*")
 		(path "/09a8dec6-2a0f-4550-85fa-f786dc828462")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5789,7 +5789,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8277a12d-73f3-480f-ab58-509f896f5a54")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6002,7 +6002,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/bc89c471-407d-48f9-9226-a7b39a443d91")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6215,7 +6215,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/30beae45-1d78-4fe8-9fbb-c62ccfa649fe")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -6810,7 +6810,7 @@
 		)
 		(property ki_fp_filters "Net*Tie*")
 		(path "/92333e63-6aa1-4407-b50a-85fac6ab7de5")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "drv8317a.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 		(net_tie_pad_groups "1, 2")
@@ -7099,6 +7099,150 @@
 		(layer "Edge.Cuts")
 		(uuid "fe509d63-25f1-450f-a5c9-f415116e8804")
 	)
+	(gr_text "GNDA"
+		(at 155 131.5 270)
+		(layer "B.SilkS")
+		(uuid "03c2c1ff-0cc9-488c-bc2d-dcef5a25de4e")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "INL"
+		(at 158 114 90)
+		(layer "B.SilkS")
+		(uuid "04b6a3c0-06e8-4e4b-a139-a0b7ca9b4f90")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 179 133.5 0)
+		(layer "B.SilkS")
+		(uuid "0eb51604-5749-4d7b-a5e5-bc7d1f5fcd88")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "INHB"
+		(at 163.5 114 90)
+		(layer "B.SilkS")
+		(uuid "66dc2e7e-7ebe-4bf8-b523-474caa4daf6b")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "SOA"
+		(at 162.5 131.5 270)
+		(layer "B.SilkS")
+		(uuid "6e8cb8bc-df69-417e-9bc1-2a785737f887")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "SOB"
+		(at 160 131.5 270)
+		(layer "B.SilkS")
+		(uuid "70d075cc-9f54-46b7-b715-1cdc57b32b58")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 179 131 0)
+		(layer "B.SilkS")
+		(uuid "791a793e-a98a-4123-ac5d-dbb525bdce02")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "INHC"
+		(at 160.5 114 90)
+		(layer "B.SilkS")
+		(uuid "7c295cd5-530e-410e-8f1d-09232b7f7b6b")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "nFAULT"
+		(at 165 131.5 270)
+		(layer "B.SilkS")
+		(uuid "b4235e38-b267-434f-9ecd-f63e25d676b9")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "SOC"
+		(at 157.5 131.5 270)
+		(layer "B.SilkS")
+		(uuid "c3d99405-3c3f-45b2-b492-9c37b088554b")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "INHA"
+		(at 166 114 90)
+		(layer "B.SilkS")
+		(uuid "ebb2a531-14c8-4a90-a5d2-3ca7a065047c")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "nSLEEP"
+		(at 155.5 114 90)
+		(layer "B.SilkS")
+		(uuid "f3911270-bc24-4589-bd0b-296cddf59c16")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "pcb DRV8317a\n2024-08-20\nMEgli"
 		(at 154.5 125.25 0)
 		(layer "F.SilkS")
@@ -7110,6 +7254,72 @@
 			)
 			(justify left bottom)
 		)
+	)
+	(dimension
+		(type aligned)
+		(layer "Eco2.User")
+		(uuid "2cd5fdaa-8328-477e-99d5-3b5c4e49f747")
+		(pts
+			(xy 154.9 111.4) (xy 154.9 134.3)
+		)
+		(height 3.180232)
+		(gr_text "22.9000 mm"
+			(at 150.569768 122.85 90)
+			(layer "Eco2.User")
+			(uuid "2cd5fdaa-8328-477e-99d5-3b5c4e49f747")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "Eco2.User")
+		(uuid "e11c0327-dc93-4796-8079-3061dbd1b205")
+		(pts
+			(xy 153.9 113) (xy 182.3 113)
+		)
+		(height -3)
+		(gr_text "28.4000 mm"
+			(at 168.1 108.85 0)
+			(layer "Eco2.User")
+			(uuid "e11c0327-dc93-4796-8079-3061dbd1b205")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
 	)
 	(segment
 		(start 159.8 119.85)
@@ -9076,9 +9286,9 @@
 		)
 		(polygon
 			(pts
-				(xy 168.9 120.9) (xy 168.9 121.5) (xy 168.9 121.5) (xy 168.9 122.9) (xy 168.7 123.1) (xy 168.7 129.1)
-				(xy 170.8 131.2) (xy 170.8 134.3) (xy 182.1 134.3) (xy 182.1 131.9) (xy 174.3 131.9) (xy 173.9 131.5)
-				(xy 173.9 130.1) (xy 169.6 125.8) (xy 169.6 123.9) (xy 169.5 123.8) (xy 169.5 120.9)
+				(xy 168.9 120.9) (xy 168.9 121.5) (xy 168.9 122.9) (xy 168.7 123.1) (xy 168.7 129.1) (xy 170.8 131.2)
+				(xy 170.8 134.3) (xy 182.1 134.3) (xy 182.1 131.9) (xy 174.3 131.9) (xy 173.9 131.5) (xy 173.9 130.1)
+				(xy 169.6 125.8) (xy 169.6 123.9) (xy 169.5 123.8) (xy 169.5 120.9)
 			)
 		)
 		(filled_polygon
